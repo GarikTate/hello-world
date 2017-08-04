@@ -1,5 +1,6 @@
 <?php
 echo 'You know you love me';
+echo 'did that just happen?';
  
 
 ?>
